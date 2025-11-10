@@ -23,11 +23,6 @@ I love exploring how things work under the hood and building reliable systems th
 Right now I’m deepening my knowledge in **Go backend development**, concurrency, and system design.
 
 ---
-
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me anytime.*
-
----
-
 <p align="center">
   <b>"Go hard or go home."</b> 🏆
 </p>
