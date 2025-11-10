@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=I+love+math+and+development,+and+the+way+they+can+be+combined" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=I+love+math+and+development,+and+the+way+they+can+be+combined" alt="Typing SVG" />
 </p>
 
 ---
